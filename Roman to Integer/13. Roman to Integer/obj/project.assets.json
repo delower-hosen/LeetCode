@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\LeetCode\\13. Roman to Integer\\13. Roman to Integer\\13. Roman to Integer.csproj",
+      "projectUniqueName": "G:\\LeetCode\\Roman to Integer\\13. Roman to Integer\\13. Roman to Integer.csproj",
       "projectName": "13. Roman to Integer",
-      "projectPath": "G:\\LeetCode\\13. Roman to Integer\\13. Roman to Integer\\13. Roman to Integer.csproj",
+      "projectPath": "G:\\LeetCode\\Roman to Integer\\13. Roman to Integer\\13. Roman to Integer.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "G:\\LeetCode\\13. Roman to Integer\\13. Roman to Integer\\obj\\",
+      "outputPath": "G:\\LeetCode\\Roman to Integer\\13. Roman to Integer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

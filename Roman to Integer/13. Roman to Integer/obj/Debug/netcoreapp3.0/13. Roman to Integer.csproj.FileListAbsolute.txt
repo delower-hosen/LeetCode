@@ -9,3 +9,14 @@ G:\LeetCode\13. Roman to Integer\13. Roman to Integer\obj\Debug\netcoreapp3.0\13
 G:\LeetCode\13. Roman to Integer\13. Roman to Integer\obj\Debug\netcoreapp3.0\13. Roman to Integer.AssemblyInfo.cs
 G:\LeetCode\13. Roman to Integer\13. Roman to Integer\obj\Debug\netcoreapp3.0\13. Roman to Integer.dll
 G:\LeetCode\13. Roman to Integer\13. Roman to Integer\obj\Debug\netcoreapp3.0\13. Roman to Integer.pdb
+G:\LeetCode\Roman to Integer\13. Roman to Integer\bin\Debug\netcoreapp3.0\13. Roman to Integer.exe
+G:\LeetCode\Roman to Integer\13. Roman to Integer\bin\Debug\netcoreapp3.0\13. Roman to Integer.deps.json
+G:\LeetCode\Roman to Integer\13. Roman to Integer\bin\Debug\netcoreapp3.0\13. Roman to Integer.runtimeconfig.json
+G:\LeetCode\Roman to Integer\13. Roman to Integer\bin\Debug\netcoreapp3.0\13. Roman to Integer.runtimeconfig.dev.json
+G:\LeetCode\Roman to Integer\13. Roman to Integer\bin\Debug\netcoreapp3.0\13. Roman to Integer.dll
+G:\LeetCode\Roman to Integer\13. Roman to Integer\bin\Debug\netcoreapp3.0\13. Roman to Integer.pdb
+G:\LeetCode\Roman to Integer\13. Roman to Integer\obj\Debug\netcoreapp3.0\13. Roman to Integer.csprojAssemblyReference.cache
+G:\LeetCode\Roman to Integer\13. Roman to Integer\obj\Debug\netcoreapp3.0\13. Roman to Integer.AssemblyInfoInputs.cache
+G:\LeetCode\Roman to Integer\13. Roman to Integer\obj\Debug\netcoreapp3.0\13. Roman to Integer.AssemblyInfo.cs
+G:\LeetCode\Roman to Integer\13. Roman to Integer\obj\Debug\netcoreapp3.0\13. Roman to Integer.dll
+G:\LeetCode\Roman to Integer\13. Roman to Integer\obj\Debug\netcoreapp3.0\13. Roman to Integer.pdb

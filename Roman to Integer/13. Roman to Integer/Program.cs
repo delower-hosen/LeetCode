@@ -5,7 +5,7 @@ namespace _13._Roman_to_Integer
 {
     class Program
     {
-        static void Main(string[] args)
+        public static int RomanToInt(string s)
         {
             Dictionary<char, int> Letters = new Dictionary<char, int>()
             {
@@ -18,11 +18,11 @@ namespace _13._Roman_to_Integer
                 { 'M', 1000 }
 
             };
-            string roman = "LVIII";
+            string roman = s;
             int result = 0;
             for (int i = 0; i < roman.Length; i++)
             {
-                if ( i+1< roman.Length && roman[i] == 'I' && (roman[i + 1] == 'V' || roman[i + 1] == 'X'))
+                if (i + 1 < roman.Length && roman[i] == 'I' && (roman[i + 1] == 'V' || roman[i + 1] == 'X'))
                 {
                     result += Letters[roman[i + 1]] - Letters[roman[i]];
                     i++;
@@ -42,7 +42,11 @@ namespace _13._Roman_to_Integer
                     result += Letters[roman[i]];
                 }
             }
-            Console.WriteLine("{0}", result);
+            return result;
+        }
+        static void Main(string[] args)
+        {
+            Console.WriteLine("{0}", RomanToInt("IV"));  // test purpose
         }
     }
 }
